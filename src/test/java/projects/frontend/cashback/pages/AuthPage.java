@@ -1,11 +1,12 @@
 package projects.frontend.cashback.pages;
 
 import org.openqa.selenium.By;
+import projects.frontend.cashback.helpers.TestBaseCashback;
 
 import static com.codeborne.selenide.Selenide.$;
 
-public class AuthPage {
-    public String paramURL = "dev";
+public class AuthPage extends TestBaseCashback {
+
     public String authURL = "https://auth." + paramURL + "megabonus.com";
 
     By authForm = By.id("auth");
