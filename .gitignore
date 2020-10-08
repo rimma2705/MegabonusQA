@@ -1,0 +1,6 @@
+# Created by .ignore support plugin
+allure-results/
+build/
+.idea/
+*.iml
+target/
