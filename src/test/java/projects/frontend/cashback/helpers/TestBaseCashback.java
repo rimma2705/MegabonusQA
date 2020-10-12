@@ -6,6 +6,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 public class TestBaseCashback {
+    public String paramURL = "";   // "dev"   "stage"  ""
 
     @BeforeMethod(alwaysRun = true)
     public void start(){
