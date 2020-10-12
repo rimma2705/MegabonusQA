@@ -10,7 +10,7 @@ public class TestBaseCashback {
 
     @BeforeMethod(alwaysRun = true)
     public void start(){
-        Configuration.browser = System.getProperty("selenide.browser", "opera");
+        Configuration.browser = System.getProperty("selenide.browser", "chrome");
         // "chrome", "firefox", "legacy_firefox", "ie", "htmlunit", "opera", "safari", "edge"
         Configuration.startMaximized = true;
         Selenide.clearBrowserCookies();

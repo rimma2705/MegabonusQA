@@ -25,7 +25,7 @@ public class Auth extends TestBaseCashback {
     }
 
     //Авторизация. Отрицательный сценарий: Не верный емайл
-    @Test(groups = {"web"},priority = 1)
+    @Test(groups = {"web2"},priority = 1)
     public void authFalseEmail() throws Exception {
         open(authPage.authURL);
         System.out.println("1");
