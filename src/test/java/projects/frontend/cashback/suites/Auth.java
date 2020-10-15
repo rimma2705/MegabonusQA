@@ -25,7 +25,7 @@ public class Auth extends TestBaseCashback {
     }
 
     //Авторизация. Отрицательный сценарий: Не верный емайл
-    @Test(groups = {"web"},priority = 3)
+    @Test(groups = {"web2"},priority = 3)
     public void authFalseEmail() throws Exception {
         open(authPage.authURL);
         System.out.println("3");
@@ -35,10 +35,10 @@ public class Auth extends TestBaseCashback {
     }
 
     //Авторизация. Отрицательный сценарий: Не верный пароль
-    @Test(groups = {"web"},dependsOnMethods = "authTrue",priority = 1)
+    @Test(groups = {"web"},dependsOnMethods = "authTrue",priority = 6)
     public void authFalsePassword() throws Exception {
         open(authPage.authURL);
-        System.out.println("1");
+        System.out.println("6");
         authPage.login("raisa.demenko@yandex.ru", "123123123test");
         sleep(1000);
         $(By.xpath("/html/body/div[1]/section/div/div[2]/div[5]/div[2]/div[2]/div[2]/p")).shouldHave(text("Нверный email или пароль"));

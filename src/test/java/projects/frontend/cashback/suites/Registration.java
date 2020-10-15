@@ -44,9 +44,10 @@ public class Registration extends TestBaseCashback {
     }
 
     //Регистрация. Отрицательный сценарий: Не коррекнтный пароль
-    @Test(groups = {"web"},priority = 6)
+    @Test(groups = {"web"},priority = 1)
     public void registerFalsePassword() throws Exception {
         open(registerPage.registerURL);
+        System.out.println("1");
         registerPage.register(textEmailRandom, "123");
         $(registerPage.textErrorPassword).shouldHave(text("Мы за надежные пароли — минимум 8 символов"));
     }
