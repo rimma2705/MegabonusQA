@@ -9,8 +9,5 @@
         <module name="MegabonusQA" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MegabonusQA" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
