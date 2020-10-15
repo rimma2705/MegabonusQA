@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91c9fd4b-fe0c-490a-b76c-5b697afbc2d3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java" afterPath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java" afterPath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,7 +48,7 @@
       <file leaf-file-name="Auth.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="357">
               <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="40" />
               <folding />
             </state>
@@ -956,7 +953,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="357">
           <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="40" />
           <folding />
         </state>
