@@ -2,42 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91c9fd4b-fe0c-490a-b76c-5b697afbc2d3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/09293d1e-c8ba-4267-adf8-43b76f51f1ae-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/09a1c552-c38d-4843-9d5e-95bd668cd960-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/0e06168f-86d2-4d6c-a578-11f52b80f3a6-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/0e6faf30-cb9a-461e-bbd2-c8e0f93c0853-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/121d3dc4-299d-4cc6-a429-77e77f776cba-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/1752f188-57b0-4aca-91e4-a0294f4763cb-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/1779a799-e76e-4533-9888-b1a3506ccd32-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/1c04f6ad-39fc-4de9-a009-96d7f7b09eca-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/1f91998c-9818-4f8c-a2a7-0ee30c2930b8-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/284011e9-bbdd-4ea3-bb2f-5529512bfe0b-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/28677936-37b1-4159-a6be-a6cd94b90680-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/2a7bb8ef-f1a0-40e7-960c-3f0f037d9b46-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/342a0290-c14f-4dc5-a0ac-97a070aca5ab-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/3eb156a9-91ad-4e71-96ec-d34eeec22219-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/65f0c6ca-4d72-4b28-92fb-431b02bcaf78-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/671b5e50-5baf-4037-b3f3-fe2bc127a226-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/6f7b2f3c-1a44-482c-8a6a-fbbd1ecfb296-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/715a6da4-f81e-4ea5-b339-737eea597903-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/74a05080-b111-4b0d-ac22-cf9697ab7758-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/7bbef064-e7b9-4afa-ae6e-e744bd1b1a10-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/844f08db-be6d-4fd1-bfa2-d997dda6c4a9-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/88272af9-fb65-44b5-9a25-70224813258e-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/8e521aa8-266a-40c8-940a-208c6ee54fe8-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/96dcf98a-71ac-4903-84db-8e5b38c48fdf-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/96e2359d-5088-4f4d-a478-3afd96c8723f-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/9cc7bf1b-2a9c-428b-b945-657b7ebe07c1-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/af9a529f-782e-4747-af0d-fb7239c3845a-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/c48cf58d-2462-474c-9ee0-b38e4f46109f-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/c535014b-4b2a-4edf-976f-20eac2dc48a5-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/c5b8de54-b1cf-4172-900b-23380f44888e-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/e9c26ce4-a7b3-409d-8127-3445f0e33cf7-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/f97919b6-7483-4ab7-af87-3a6a4ea22399-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure-results/fb4e45ef-0312-4450-bbaa-15a0cce900f9-result.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java" afterPath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java" afterPath="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,7 +21,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="1054">
               <caret line="62" column="52" lean-forward="false" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
               <folding />
             </state>
@@ -63,8 +31,8 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,8 +51,31 @@
       <file leaf-file-name="Auth.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/RegisterPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1220#1221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/AuthPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -93,8 +84,8 @@
       <file leaf-file-name="Registration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="697">
+              <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -134,12 +125,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/AuthPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml.fxml" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/RegisterPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java" />
         <option value="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/helpers/TestBaseCashback.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java" />
+        <option value="$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java" />
       </list>
     </option>
   </component>
@@ -171,11 +162,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,8 +184,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -256,6 +248,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="cashback" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MegabonusQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MegabonusQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="cashback" type="462c0819:PsiDirectoryNode" />
               <item name="suites" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -269,11 +271,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../testsqaMegabonus" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -584,7 +585,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -592,13 +593,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1977612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33913043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1977612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33913043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -888,29 +889,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/AuthPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/65.properties" />
     <entry file="file://$PROJECT_DIR$/src/test/java/resources.xml" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/RegisterPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/2020-10-12T14-58-32_324-jvmRun1.dump" />
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/2020-10-12T14-54-35_470-jvmRun1.dump" />
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-projects.frontend.cashback.suites.Auth.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="1054">
           <caret line="62" column="52" lean-forward="false" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
           <folding />
         </state>
@@ -924,14 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/helpers/TestBaseCashback.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -940,18 +919,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/RegisterPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/pages/AuthPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/projects/frontend/cashback/suites/Auth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="40" />
           <folding />
         </state>
       </provider>

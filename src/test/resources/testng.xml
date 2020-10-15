@@ -10,6 +10,7 @@
         </groups>
         <classes>
             <class name="projects.frontend.cashback.suites.Auth"/>
+            <class name="projects.frontend.cashback.suites.Registration"/>
 
         </classes>
     </test>

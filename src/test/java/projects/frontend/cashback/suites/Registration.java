@@ -25,7 +25,7 @@ public class Registration extends TestBaseCashback {
 
     //Регистрация. Положительный сценарий
 
-    @Test
+    @Test(groups = {"web2"},priority = 4)
     public void registerTrue() throws Exception {
         open(registerPage.registerURL);
 
@@ -36,7 +36,7 @@ public class Registration extends TestBaseCashback {
 
 
     //Регистрация. Отрицательный сценарий: Не корректная почта
-    @Test
+    @Test(groups = {"web2"},priority = 5)
     public void registerFalseEmail() throws Exception {
         open(registerPage.registerURL);
         registerPage.register(textEmailRandom + "@", textPassword);
@@ -44,7 +44,7 @@ public class Registration extends TestBaseCashback {
     }
 
     //Регистрация. Отрицательный сценарий: Не коррекнтный пароль
-    @Test
+    @Test(groups = {"web"},priority = 6)
     public void registerFalsePassword() throws Exception {
         open(registerPage.registerURL);
         registerPage.register(textEmailRandom, "123");
