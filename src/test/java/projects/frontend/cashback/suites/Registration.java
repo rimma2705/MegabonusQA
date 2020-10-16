@@ -1,5 +1,7 @@
 package projects.frontend.cashback.suites;
 
+import io.qameta.allure.Story;
+import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 import projects.frontend.cashback.helpers.TestBaseCashback;
 import projects.frontend.cashback.pages.RegisterPage;
@@ -23,32 +25,29 @@ public class Registration extends TestBaseCashback {
 
     //======  РЕГИСТРАЦИЯ  =========
 
-    //Регистрация. Положительный сценарий
-
-    @Test(groups = {"web2"},priority = 4)
+    @Test(groups = {"web3"},priority = 4, description="Положительный сценарий.")
+    @Story("Регистрация.")
     public void registerTrue() throws Exception {
         open(registerPage.registerURL);
-
         registerPage.register(textEmailRandom, textPassword);
         sleep(5000);
         $(registerPage.registerForm).should(disappear);
     }
 
-
-    //Регистрация. Отрицательный сценарий: Не корректная почта
-    @Test(groups = {"web2"},priority = 5)
+    @Test(groups = {"web3"},priority = 5, description="Отрицательный сценарий: Некорректная почта.")
+    @Story("Регистрация.")
     public void registerFalseEmail() throws Exception {
         open(registerPage.registerURL);
         registerPage.register(textEmailRandom + "@", textPassword);
         $(registerPage.textErrorEmail).shouldHave(text("Неверный формат email"));
     }
 
-    //Регистрация. Отрицательный сценарий: Не коррекнтный пароль
-    @Test(groups = {"web"},priority = 1)
+    @Test(groups = {"web2"},priority = 1, description="Отрицательный сценарий: Некорректный пароль.")
+    @Story("Регистрация.")
     public void registerFalsePassword() throws Exception {
         open(registerPage.registerURL);
         System.out.println("1");
         registerPage.register(textEmailRandom, "123");
-        $(registerPage.textErrorPassword).shouldHave(text("Мы за надежные пароли — минимум 8 символов"));
+        $(registerPage.textErrorPassword).shouldHave(text(" за надежные пароли — минимум 8 символов"));
     }
 }

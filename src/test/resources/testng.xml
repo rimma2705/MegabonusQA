@@ -5,7 +5,7 @@
     <test name="integration" >
         <groups>
             <run>
-                <include name="web"/>
+                <include name="web10"/>
             </run>
         </groups>
         <classes>
